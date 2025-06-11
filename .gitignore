@@ -19,3 +19,9 @@ out/
 *.exe
 *.out
 *.app
+*.dll
+*.so
+
+# OS files
+.DS_Store
+Thumbs.db
