@@ -145,9 +145,10 @@ Optymalizacje specyficzne dla platformy do zamiany bajtów na architekturach x86
 
 ## Licencja
 
-Projekt dostępny na licencji MIT. Zobacz plik `LICENSE` dla szczegółów.
+Projekt jest udostępniany na licencji MIT. Szczegóły w pliku [LICENSE](LICENSE).
 
-## Kontakt
+## Autor
 
-- **Autor**: Igor Suchodolski
-- **Email**: igor.suchodolskii@gmail.com
+**Igor Suchodolski**
+- Email: [igor.suchodolskii@gmail.com](mailto:igor.suchodolskii@gmail.com)
+- GitHub: [@m4jorskyy](https://github.com/m4jorskyy)
