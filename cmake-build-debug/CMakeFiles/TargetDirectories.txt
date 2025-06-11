@@ -1,0 +1,3 @@
+C:/Users/igsu8/CLionProjects/parserek/cmake-build-debug/CMakeFiles/parserek.dir
+C:/Users/igsu8/CLionProjects/parserek/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/igsu8/CLionProjects/parserek/cmake-build-debug/CMakeFiles/rebuild_cache.dir
